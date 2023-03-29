@@ -16,16 +16,10 @@
   
 
 
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: luismiguelwitzell@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/luis-miguel-witzel-lima-a42304204/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/zluismiguelz/">
-      <img width="25" src="instagram.png">
-    </a>
+<div> 
+  <a href="https://instagram.com/zluismiguelz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/ZrK0FiCiaL" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luismiguelwitzell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luis-miguel-witzel-lima-a42304204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
-
-![Snake animation](https://github.com/LuisMiguelWL/LuisMiguelWL/blob/output/github-contribution-grid-snake.svg)
