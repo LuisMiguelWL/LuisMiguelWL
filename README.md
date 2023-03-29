@@ -1,7 +1,7 @@
 ### Opaaa!! Eu sou o Luis Miguel 
 
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisMiguelWL&show_icons=true&theme=dracula-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelWL&layout=compact&langs_count=16&theme=dracula-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisMiguelWL&show_icons=true&theme=dracula-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelWL&layout=compact&langs_count=16&theme=dracula-gatsby"/>
 </div>
 <br>
 
@@ -14,7 +14,6 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
 
 
