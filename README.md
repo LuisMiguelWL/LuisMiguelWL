@@ -1,7 +1,7 @@
 ### Opaaa!! Eu sou o Luis Miguel 
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisMiguelWL&show_icons=true&theme=dracula-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelWL&layout=compact&langs_count=16&theme=dracula-gatsby"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelWL&layout=compact&langs_count=16&theme=dracula-gatsby"/>
 </div>
 <br>
 
