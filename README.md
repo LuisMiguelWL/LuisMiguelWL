@@ -1,9 +1,15 @@
-
-
-
 <img align="right" width="50%" height="200em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Rosa&theme=dracula&show_icons=true" >
 
 ### Opaaa!! Eu sou o Luis Miguel 
+
+- :two_hearts: Desenvolvimento Web 
+- :star2: Atuo com Springboot && Node
+- :computer: Desenvolvedor FullStack && Android
+- :boom: Java | JavaScript | Node | React
+- :alien: 18 anos
+
+<hr>
+<br>
 
 
 <img width="50%" align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Rosa&layout=compact&theme=dracula&langs_count=8&show_icons=true"/>
