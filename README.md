@@ -1,18 +1,26 @@
-<img align="right" width="50%" height="200em" src="https://github-readme-stats.vercel.app/api?username=LuisMiguelWL&theme=dracula&show_icons=true" >
+<div align="center">
+   <h1>Fala galera, eu sou o <a href="https://hemant.codes">Luis</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
-### Opaaa!! Eu sou o Luis Miguel 
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍🎓 Luis Miguel | 💻 Desenvolverdor Júnior Full-Stack | 🛸 Brasil , BR <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
-- :two_hearts: Desenvolvimento Web 
-- :star2: Atuo com Springboot && Node
-- :computer: Desenvolvedor Web
-- :boom: Java | JavaScript | Node | React
-- :alien: 18 anos
+**Sobre mim**
 
-<hr>
+- 🌟 Tenho 18 anos
+- 💼 Estudante de Ciência da Computação (Anhembi Morumbi)
+- 📚 Faço cursos na Alura e na Udemy
+- ❤️ Estou sempre em busca de aprimorar meus conhecimentos
+
 <br>
 
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisMiguelWL&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelWL&layout=compact&langs_count=16&theme=react&border_color=61dafb&hide_border=true"/>
+</div>
+  
 
-<img width="50%" align="left" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelWL&layout=compact&theme=dracula&langs_count=8&show_icons=true"/>
 
 ## Habilidades
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,5 +38,7 @@
 <br>
 <hr>
 <div style="display:flex;align-items:center;justify-content:center;">
-	<a href="https://www.linkedin.com/in/arthur-rosa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+	<a href="https://www.linkedin.com/in/luis-miguel-witzel-lima-a42304204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+	<a href = "mailto:luismiguelwitzell@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href="https://instagram.com/zluismiguelz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
